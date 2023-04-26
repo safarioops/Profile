@@ -23,10 +23,10 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717&logoColor=white)
 
 
-![](https://img.shields.io/badge/AdobePhotoshop-informational?style=flat&logo=AdobePhotoshop&color=768390&logoColor=white)
-![](https://img.shields.io/badge/AdobeIllustrator-informational?style=flat&logo=AdobeIllustrator&color=768390&logoColor=white)
-![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=AdobeAfterEffects&color=768390&logoColor=white)
-![](https://img.shields.io/badge/AdobeInDesign-informational?style=flat&logo=AdobeInDesign&color=768390&logoColor=white)
-![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&color=768390&logoColor=white)
-![](https://img.shields.io/badge/MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&color=768390&logoColor=white)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=768390&logoColor=white)
+![](https://img.shields.io/badge/AdobePhotoshop-informational?style=flat&logo=AdobePhotoshop&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/AdobeIllustrator-informational?style=flat&logo=AdobeIllustrator&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=AdobeAfterEffects&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/AdobeInDesign-informational?style=flat&logo=AdobeInDesign&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=2D333B&logoColor=white)
