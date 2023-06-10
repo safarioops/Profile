@@ -1,7 +1,7 @@
 ### Hi there, I'm **Mohamad Safari** <img src="https://cdn-icons-png.flaticon.com/512/4666/4666845.png" width="30">
 
 > ### Glad to see you here
-> ![visitors](https://visitor-badge.glitch.me/badge?page_id=safarioops&left_color=gray&right_color=yellow)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=safarioops&left_color=gray&right_color=yellow) -->
 
 </br>
 
